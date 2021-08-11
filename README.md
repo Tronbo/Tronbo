@@ -45,3 +45,5 @@ Skills: Python / C# / HTML / CSS
 
 [website]: https://eddyzhu.netlify.app/
 [instagram]: https://www.instagram.com/swikerdiddel/
+
+![Tronbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tronbo&show_icons=true&theme=radical)
